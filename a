@@ -4,10 +4,14 @@ function a()(x){
 
 111
 
-gunction b(x){
+function b(x){
 	console.log(x);
 }
 
 222
+
+function a()(x){
+        console.log(x);
+}
 
 333
