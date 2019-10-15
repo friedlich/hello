@@ -15,3 +15,10 @@ function a()(x){
 }
 
 333
+
+function a()(x){
+        console.log(x);
+}
+
+444
+
