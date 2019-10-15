@@ -1,3 +1,7 @@
+function a()(x){
+	console.log(x);
+}
+
 111
 222
 333
