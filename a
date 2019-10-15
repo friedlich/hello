@@ -3,5 +3,11 @@ function a()(x){
 }
 
 111
+
+gunction b(x){
+	console.log(x);
+}
+
 222
+
 333
